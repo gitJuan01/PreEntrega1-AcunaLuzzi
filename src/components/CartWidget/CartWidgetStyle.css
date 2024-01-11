@@ -1,0 +1,20 @@
+.containerCart .cartIcon{
+    font-size: 30px;
+    color: black;
+    cursor: pointer;
+}
+
+.cartNumber{
+    background-color: yellow;
+    font-weight: bold;
+    position: absolute;
+    margin-bottom: 10px;
+    width: 10px;
+    height: 20px;
+}
+
+.containerCart{
+    display: inline;
+}
+
+

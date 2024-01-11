@@ -1,0 +1,17 @@
+.NavBarStyle{
+    text-align: center;
+    background-color: greenyellow;
+    padding-bottom: 2px;
+    font-weight: bold;
+}
+
+.NavBarStyle ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 4%;
+}
+
+li:hover{
+    color: red;
+    cursor: pointer;
+}
